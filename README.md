@@ -1,6 +1,6 @@
 # Rian Lucas
 
-Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualmente curso Análise e Desenvolvimento de Sistema também pelo IFMA. Tenho grande paixão por tecnologia e adoro enfrentar desafios que me permitem expandir meus conhecimentos e habilidades.
+###Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualmente curso Análise e Desenvolvimento de Sistema também pelo IFMA. Tenho grande paixão por tecnologia e adoro enfrentar desafios que me permitem expandir meus conhecimentos e habilidades.
 ---
 
 ### 🤖 Linguagens e Tecnologias
