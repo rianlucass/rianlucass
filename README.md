@@ -81,11 +81,3 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 - **Backend**: Node.js, Express, Java, Spring Web...
 - **Banco de Dados**: MySQL, Sequelize, Spring Data JPA...
 
----
-
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rianlucass&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rianlucass&layout=compact&theme=radical&hide=html,css)
-
