@@ -70,6 +70,15 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+/>
+
 
 <br/>
 
