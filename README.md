@@ -31,14 +31,6 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="java"
     width="30px" 
@@ -64,14 +56,6 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="WordPress" 
     title="WordPress"
     width="30px" 
@@ -86,7 +70,7 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 
 ### Tecnologias e Habilidades
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap...
+- **Frontend**: HTML, CSS, JavaScript...
 - **Backend**: Node.js, Express, Java, Spring Boot...
-- **Banco de Dados**: MySQL,Postgresql Sequelize, Spring Data JPA...
+- **Banco de Dados**: MySQL,Postgresql, Sequelize, Spring Data JPA...
 
