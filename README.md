@@ -47,6 +47,14 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 />
 <img 
     align="left" 
+    alt="Nodejs" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img 
+    align="left" 
     alt="Sequelize" 
     title="Sequelize"
     width="30px" 
