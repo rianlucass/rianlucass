@@ -86,6 +86,5 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 <div>
 <a href="https://github.com/rianlucass">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianlucass&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rianlucass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
