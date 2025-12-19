@@ -67,9 +67,27 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
     title="Sequelize"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
 />
+          
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwnd"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
 <img 
     align="left" 
     alt="WordPress" 
@@ -78,7 +96,6 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
 />
-
 
 <br/>
 
