@@ -101,7 +101,6 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
 - **Backend**: Node.js, Express, Java, Spring Boot...
 - **Banco de Dados**: MySQL, Postgresql, Sequelize, Spring Data JPA...
 
-
 ---
 
-![Descrição do GIF](https://github.com/aaminahhkhan/Mikasa-world/blob/main/34855.gif)
+![](https://github.com/aaminahhkhan/Mikasa-world/blob/main/my.gif)
