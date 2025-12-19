@@ -53,6 +53,15 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
           
 <img 
     align="left" 
@@ -71,6 +80,7 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
+
 
 <img 
     align="left" 
