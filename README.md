@@ -102,5 +102,3 @@ Sou um desenvolvedor com formação técnico em informática pelo IFMA e atualme
   </picture>
 </div>
 
----
-![](https://github.com/aaminahhkhan/Mikasa-world/blob/main/my.gif)
